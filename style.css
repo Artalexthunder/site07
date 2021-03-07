@@ -1,0 +1,23 @@
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+    background: rgb(222,155,191);
+    background: radial-gradient(circle, rgba(222,155,191,1) 0%, rgba(248,0,255,1) 100%);
+    font-family: 'Cormorant Infant', serif;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.out{
+    width: 60%;
+    margin: 15px auto;
+}
+
+.out video{
+    width: 100%;
+}
